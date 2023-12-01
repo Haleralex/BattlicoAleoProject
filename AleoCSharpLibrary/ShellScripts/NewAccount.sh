@@ -1,0 +1,1 @@
+snarkos account new

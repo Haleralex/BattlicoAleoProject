@@ -1,0 +1,1 @@
+curl -H "Connection: close" https://api.explorer.aleo.org/v1/testnet3/program/APP_NAME.aleo/mapping/account/ADDRESS_TO_GET_BALANCE

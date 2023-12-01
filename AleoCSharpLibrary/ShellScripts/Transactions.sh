@@ -1,0 +1,1 @@
+snarkos developer execute "APP_NAME.aleo" "transfer_public" "TARGET_ADDRESS" "AMOUNTu64" --private-key "SENDER_PRIVATE_KEY" --query "https://api.explorer.aleo.org/v1" --broadcast "https://api.explorer.aleo.org/v1/testnet3/transaction/broadcast" --priority-fee 0
