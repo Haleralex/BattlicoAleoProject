@@ -2,7 +2,7 @@
 # Battlico + ALEO
 
 A brief description of what this project does and who it's for:
-The project was created to combine the Batliko project with the ALEO crypto project
+The project was created to combine the Battlico project with the ALEO crypto project
 
 
 1) Special token in testnet3 (Aleo testnet) was created - battlico_token.aleo
